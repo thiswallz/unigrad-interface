@@ -1,33 +1,17 @@
 <template>
   <section data-test-id="home" class="home tw-relative" id="home">
-     <animation
-            :source="`/animation/RARE.json`"
-            :autoload="true"
-            :unobserve="true"
-            :re-play="true"
-            class="tw-absolute sm:tw--left-16 sm:tw--top-10 tw-z-1"
-          />
-    <img
-      :src="`/images/glogo.png`"
+    <animation
+      :source="`/animation/RARE.json`"
+      :autoload="true"
+      :infinite="true"
       class="
-        right-side
-        tw-absolute
-        tw-z-1
-        tw-w-2/3
-        sm:tw-w-48
-        md:tw-w-60
-        lg:tw-w-80
-        sm:tw-top-36
-        sm:tw-right-4
-        md:tw--right-24
-        lg:tw--right-44
+        super-card
+        tw-absolute tw-z-1
+        sm:tw-top-36 sm:tw-right-4
         tw-transform
         sm:transform-none
-        tw-left-1/2
-        tw--translate-x-1/2
-        tw--translate-y-1/2
+        tw-left-1/2 tw--translate-x-1/2 tw--translate-y-1/2
       "
-      style="top:700px"
     />
     <div class="tw-hidden sm:tw-inline sm:tw-fixed tw-z-50 sm:tw-right-20">
       <ul>
@@ -83,10 +67,10 @@
         "
       >
         Reinventing <br class="tw-block sm:tw-hidden" />
-        Grading services 
+        Grading services
       </div>
       <div class="sub-head tw-z-10 tw-text-center tw-mt-4 sm:tw-text-left">
-       Built on top of blockchain, unhackable protocol. 
+        Built on top of blockchain, unhackable protocol.
         <br class="sm:tw-block tw-hidden" />
         Unigrad offers proof of ownerships to collectors,
         <br class="sm:tw-block tw-hidden" />
@@ -96,16 +80,16 @@
 
         Security for collectors and buyers,
         <br class="sm:tw-block tw-hidden" />
-        since is unhackable, item cannot be fake 
+        since is unhackable, item cannot be fake
         <br class="sm:tw-block" />
-        Grading companies today earns just when they grade, now you earn always. 
+        Grading companies today earns just when they grade, now you earn always.
         <br class="sm:tw-block tw-hidden" />
-        <br class="sm:tw-block " />
+        <br class="sm:tw-block" />
         Collectors and companies earns tokens for every transaction made.
         <br class="sm:tw-block tw-hidden" />
-         <br class="sm:tw-block " />
+        <br class="sm:tw-block" />
         Collectors can list items for sale and connect to Ebay/Amazon/Others,
-         <br class="sm:tw-block tw-hidden" />
+        <br class="sm:tw-block tw-hidden" />
         With the unigrad seal you can be sure that the real owner is selling.
       </div>
     </div>
@@ -160,10 +144,22 @@ export default class Home extends Vue {
 </script>
 
 <style lang="scss" scoped>
-.right-side{
-   @screen sm {
+.super-card {
+  width: 550px;
+  top: 680px !important;
+  @screen ss {
+  width: 600px;
+  top: 600px !important;
+  }
+  @screen sm {
+    right: -450px !important;
+    top: 200px !important;
     left: unset !important;
   }
+    @screen md{
+  width: 750px;
+    right: -600px !important;
+    }
 }
 .home {
   height: 820px;

@@ -1,7 +1,7 @@
 <template>
-  <div>
+  <div class="wrapper">
     <div
-      class=""
+      class="animation-card"
       :class="[hide ? 'hidden-lottie' : 'animation-lottie']"
       ref="animation"
     ></div>
@@ -127,3 +127,26 @@ export default class Animation extends Vue {
   }
 }
 </script>
+<style>
+.animation-card {
+   -webkit-animation: rotate 5s linear infinite;
+  -moz-animation: rotate 5s linear infinite;
+  animation: rotate 5s linear infinite;
+}
+@-webkit-keyframes rotate {
+  100% {-webkit-transform: rotatey(360deg);}
+}
+
+@-moz-keyframes rotate {
+  100% {-moz-transform: rotatey(360deg);}
+}
+
+@keyframes rotate {
+  100% {transform: rotatey(360deg);}
+}
+.wrapper {
+  -webkit-perspective: 45em;
+  -moz-perspective: 45em;
+  perspective: 45em;
+}
+</style>
