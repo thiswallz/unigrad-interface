@@ -1,0 +1,32 @@
+[
+  {
+    "name": "twitter",
+    "link": "",
+    "icon": "icons for social media.png"
+  },
+  {
+    "name": "discord",
+    "link": "",
+    "icon": "icons for social media-1.png"
+  },
+  {
+    "name": "Reddit",
+    "link": "",
+    "icon": "icons for social media-2.png"
+  },
+  {
+    "name": "Telegram",
+    "link": "",
+    "icon": "icons for social media-3.png"
+  },
+  {
+    "name": "Youtube",
+    "link": "",
+    "icon": "icons for social media-4.png"
+  },
+  {
+    "name": "Medium",
+    "link": "",
+    "icon": "icons for social media-5.png"
+  }
+]

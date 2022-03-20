@@ -1,0 +1,24 @@
+[
+  {
+    "name": "play",
+    "link": "",
+    "icon": "play.webp",
+    "selected": true,
+    "cover": "games.webm",
+    "description": "A vibrant flagship casino has in store for you everything from card and betting games to slot machines and NFT minting, in addition to a set of exclusive in-house mini-games."
+  },
+  {
+    "name": "build",
+    "link": "",
+    "icon": "build.webp",
+    "cover": "pools.webm",
+    "description": "With its never-before-seen user-friendly casino building infrastructure, users will get access to all the tools needed for developing blockchain-based original games and exciting experiences."
+  },
+  {
+    "name": "earn",
+    "link": "",
+    "icon": "earn.webp",
+    "cover": "wallet.webm",
+    "description": "Open-source so that community can enjoy the casino industry’s untold profitability. Choose the game, bankroll, and be the house."
+  }
+]

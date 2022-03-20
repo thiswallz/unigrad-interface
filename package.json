@@ -1,0 +1,49 @@
+{
+  "name": "unigrad",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore",
+    "lint:check": "eslint --ext .ts,.vue ./src"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss7-compat": "^2.2.17",
+    "autoprefixer": "^9",
+    "axios": "^0.25.0",
+    "buefy": "^0.9.14",
+    "gridsome-plugin-i18n": "^1.6.0",
+    "lottie-web": "^5.8.1",
+    "moralis": "^1.5.3",
+    "postcss": "^7",
+    "postcss-import": "^14.0.2",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat",
+    "vue-awesome": "^4.5.0",
+    "vue-class-component": "^7.2.6",
+    "vue-property-decorator": "^9.1.2",
+    "vuex": "^3.6.2",
+    "web3": "^1.7.0"
+  },
+  "devDependencies": {
+    "gridsome": "^0.7.0",
+    "gridsome-plugin-brotli": "^0.1.3",
+    "gridsome-plugin-typescript": "^0.4.0",
+    "postcss-loader": "4.1.0",
+    "sass": "^1.47.0",
+    "sass-loader": "^10.1.1",
+    "ts-loader": "~8.2.0",
+    "typescript": "^4.5.4",
+    "webpack-chain": "^6.5.1",
+    "husky": "4.3.0",
+    "eslint": "^5.0.0",
+    "lint-staged": "^8.2.0",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-standard": "^4.0.0",
+    "eslint-plugin-import": "^2.18.0",
+    "eslint-plugin-promise": "^4.2.0",
+    "eslint-plugin-vue": "^5.2.0",
+    "@typescript-eslint/parser": "^1.11.0",
+    "@typescript-eslint/eslint-plugin": "^1.11.0"
+  }
+}

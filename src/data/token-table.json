@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Staking",
+    "porcent": "25%",
+    "iconColor": "#335BE9",
+    "price": "125,000,000"
+  },
+  {
+    "title": "Token sales",
+    "porcent": "15%",
+    "iconColor": "#AD44DF",
+    "price": "75,000,000"
+  },
+  {
+    "title": "Ecosystem",
+    "porcent": "15%",
+    "iconColor": "#63DDEE",
+    "price": "75,000,000"
+  },
+  {
+    "title": "Marketing & Partnerships",
+    "porcent": "15%",
+    "iconColor": "#6909C6",
+    "price": "75,000,000"
+  },
+  {
+    "title": "Reserve",
+    "porcent": "10%",
+    "iconColor": "#EE63E8",
+    "price": "50,000,000"
+  },
+  {
+    "title": "Bug Bounties & Accelerator",
+    "porcent": "10%",
+    "iconColor": "#8850FF",
+    "price": "50,000,000"
+  },
+  {
+    "title": "Team",
+    "porcent": "10%",
+    "iconColor": "#D35BE7",
+    "price": "50,000,000"
+  }
+]

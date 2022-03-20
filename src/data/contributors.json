@@ -1,0 +1,66 @@
+[
+  {
+    "icon": "exnet_light.webp",
+    "iconDark": "exnet_dark.webp"
+  },
+  {
+    "icon": "alves_light.webp",
+    "iconDark": "alves_dark.webp"
+  },
+  {
+    "icon": "banter.webp",
+    "iconDark": "banter.webp"
+  },
+  {
+    "icon": "blackdragon_light.webp",
+    "iconDark": "blackdragon_dark.webp"
+  },
+  {
+    "icon": "cryptofomo_light.webp",
+    "iconDark": "cryptofomo_dark.webp"
+  },
+  {
+    "icon": "charli3_light.webp",
+    "iconDark":"charli3_dark.webp"
+  },
+  {
+    "icon": "donkey_light.webp",
+    "iconDark": "donkey_dark.webp"
+  },
+  {
+    "icon": "ashlogo.webp",
+    "iconDark": "ashlogo.webp"
+  },
+  {
+    "icon": "gerowallet.webp",
+    "iconDark": "gerowallet.webp"
+  },
+  {
+    "icon": "magnus_light.webp",
+    "iconDark": "magnus_dark.webp"
+  },
+  {
+    "icon": "matrixlight_light.webp",
+    "iconDark": "matrixlight_dark.webp"
+  },
+  {
+    "icon": "mvst_light.webp",
+    "iconDark": "mvst_dark.webp"
+  },
+  {
+    "icon": "oig_light.webp",
+    "iconDark": "oig_dark.webp"
+  },
+  {
+    "icon": "tk_light.webp",
+    "iconDark": "tk_dark.webp"
+  },
+  {
+    "icon": "truepnl_light.webp",
+    "iconDark": "truepnl_dark.webp"
+  },
+  {
+    "icon": "vivian_light.webp",
+    "iconDark": "vivian_dark.webp"
+  }
+]

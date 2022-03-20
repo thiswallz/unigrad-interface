@@ -1,0 +1,81 @@
+{
+  "subtitle": "2022 - 2024",
+  "data": [
+    {
+      "title": "THE PROTOCOL",
+      "year": "2022",
+      "q": "Q2",
+      "status": "current",
+      "notes": [
+        "Define the business model and legal framework",
+        "Integrate early partners",
+        "Basic Website",
+        "Build community",
+        "Define workflow",
+        "Whitepaper"
+      ]
+    },
+    {
+      "title": "BLOCKCHAIN",
+      "year": "2022",
+      "q": "Q3",
+      "status": "futur",
+      "notes": [
+        "BSC integration",
+        "Basic website integrations",
+        "Infrastucture for website/contracts/tokens",
+        "Wallet integration"
+      ]
+    },
+    {
+      "title": "Launch",
+      "year": "2022",
+      "q": "Q4",
+      "status": "futur",
+      "notes": [
+        "Release of UniGrad Protocol",
+        "Build partnerships with grading companies",
+        "Launch on others protocols",
+        "Section for collectors (listing and metadata)",
+        "Affiliate program"
+      ]
+    },
+    {
+      "title": "The lab / NFTs",
+      "year": "2023",
+      "q": "Q1",
+      "status": "futur",
+      "notes": [
+        "Launch of UniGrad lab",
+        "Release UniGrad SDKs and libraries ",
+        "Build Marketplace phase 1",
+        "Audits",
+        "Stickers for grading companies"
+      ]
+    },
+    {
+      "title": "Marketplace ",
+      "year": "2023",
+      "q": "Q2/Q3",
+      "status": "future",
+      "notes": [
+        "Marketplace phase 2",
+        "Open smart contracts",
+        "Whitelabel app",
+        "Integrations for non-blockchain users",
+        "Pools for community"
+      ]
+    },
+    {
+      "title": "THE VOTE",
+      "year": "2023",
+      "q": "Q4",
+      "status": "future",
+      "notes": [
+        "Implement a basic DAO for future decisions",
+        "Implement community proposals",
+        "Other protocols (Solana/Cardano/Ethereum)"
+      ]
+    }
+  ]
+}

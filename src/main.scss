@@ -1,0 +1,21 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+//@import "bulma/bulma";
+@import "bulma/sass/utilities/_all";
+@import "bulma/sass/base/_all";
+@import "bulma/sass/elements/_all";
+@import "bulma/sass/components/dropdown";
+@import "bulma/sass/components/navbar";
+
+@import "buefy/src/scss/utils/_all";
+@import "buefy/src/scss/components/_navbar";
+@import "buefy/src/scss/components/_carousel";
+@import "buefy/src/scss/components/_notices";
+
+// @import "components/_toast";
+
+@import "style.scss";

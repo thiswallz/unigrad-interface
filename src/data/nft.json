@@ -1,0 +1,80 @@
+[
+    {
+      "name": "Blue Coat",
+      "jackpot": "16,928",
+      "action": "social",
+      "status": "",
+      "symbolCurrency": "$",
+      "isPoolClosed": true,
+      "brand": "TVL",
+      "code": "224",
+      "isReadyToClaim": false,
+      "balance": 0,
+      "image": "/images/nft/blue_coat.png"
+    },
+    {
+      "name": "Hypotermia",
+      "jackpot": "16,928",
+      "action": "play",
+      "status": "claim redward",
+      "symbolCurrency": "$",
+      "isPoolClosed": false,
+      "brand": "TVL",
+      "code": "224",
+      "isReadyToClaim": true,
+      "balance": 2,
+      "image": "/images/nft/hypothermia.png"
+    },
+    {
+      "name": "Lunatic",
+      "jackpot": "13,821",
+      "action": "play",
+      "status": "",
+      "symbolCurrency": "$",
+      "isPoolClosed": false,
+      "brand": "TVL",
+      "code": "536",
+      "isReadyToClaim": false,
+      "balance": 0,
+      "image": "/images/nft/lunatic.png"
+    },
+    {
+      "name": "The Heritage",
+      "jackpot": "13,821",
+      "action": "play",
+      "status": "warning",
+      "symbolCurrency": "$",
+      "isPoolClosed": false,
+      "brand": "TVL",
+      "code": "536",
+      "isReadyToClaim": false,
+      "balance": 0,
+      "image": "/images/nft/the_heritage.png"
+    },
+    {
+      "name": "Cosmic",
+      "jackpot": "13,821",
+      "action": "play",
+      "status": "",
+      "symbolCurrency": "$",
+      "isPoolClosed": true,
+      "brand": "TVL",
+      "code": "536",
+      "isReadyToClaim": false,
+      "balance": 0,
+      "image": "/images/nft/cosmic.png"
+    },
+    {
+      "name": "Bulb Goat",
+      "jackpot": "13,821",
+      "action": "play",
+      "status": "",
+      "symbolCurrency": "$",
+      "isPoolClosed": false,
+      "brand": "TVL",
+      "code": "536",
+      "isReadyToClaim": false,
+      "balance": 0,
+      "image": "/images/nft/bulb_goat.png"
+    }
+  ]

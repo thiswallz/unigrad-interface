@@ -1,0 +1,67 @@
+[
+  {
+    "icon": "moralis_light.webp",
+    "iconDark": "moralis_dark.webp"
+  },
+  {
+    "icon": "anyswap_light.webp",
+    "iconDark": "anyswap_dark.webp"
+  },
+  {
+    "icon": "bakeryswap_light.webp",
+    "iconDark": "bakeryswap_dark.webp"
+  },
+  {
+    "icon": "cyberfi_light.webp",
+    "iconDark": "cyberfi_dark.webp"
+  },
+  {
+    "icon": "cardstarter_light.webp",
+    "iconDark": "cardstarter_dark.webp"
+  },
+  {
+    "icon": "charli3_light.webp",
+    "iconDark": "charli3_dark.webp"
+  },
+  {
+    "icon": "ferrum.webp",
+    "iconDark": "ferrum.webp"
+  },
+  {
+    "icon": "fractal_light.webp",
+    "iconDark": "fractal_dark.webp"
+  },
+  {
+    "icon": "gerowallet.webp",
+    "iconDark": "gerowallet.webp"
+  },
+  {
+    "icon": "gys_light2.webp",
+    "iconDark": "gys_dark2.webp"
+  },
+  {
+    "icon": "dfyn_light.webp",
+    "iconDark": "dfyn_dark.webp"
+  },
+  {
+    "icon": "netvrk_light.webp",
+    "iconDark": "netvrk_dark.webp"
+  },
+  {
+    "icon": "adahandle_light.webp",
+    "iconDark": "adahandle_dark.webp"
+  },
+  {
+    "icon": "donkey_light.webp",
+    "iconDark": "donkey_dark.webp"
+  },
+  {
+    "icon": "lovelace_light.webp",
+    "iconDark": "lovelace_dark.webp"
+  },
+  {
+    "icon": "ashlogo.webp",
+    "iconDark": "ashlogo.webp"
+  }
+  
+]

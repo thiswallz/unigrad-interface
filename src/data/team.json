@@ -1,0 +1,165 @@
+[
+  {
+    "cardNumber": "7",
+    "image": "/images/team/profil/ozgur.webp",
+    "name": "Ozgur",
+    "title": "Art Director"
+  },
+  {
+    "alt": "Slide 1",
+    "cardNumber": "7",
+    "image": "/images/team/profil/jason.webp",
+    "name": "Jason",
+    "title": "CBO",
+    "social": [
+      {
+        "icon": "/images/socials/dark/linkedin.png",
+        "link": "https://www.linkedin.com/in/jason-kelman-7135a2172/"
+      }
+    ]
+  },
+  {
+    "cardNumber": "a",
+    "image": "/images/team/profil/mohammed.webp",
+    "name": "Mohammed",
+    "title": "CEO",
+    "social": [
+      {
+        "icon": "/images/socials/dark/linkedin.png",
+        "link": "https://www.linkedin.com/in/mohammedmarragh/"
+      },
+      {
+        "icon": "/images/socials/dark/icons for social media.png",
+        "link": "https://twitter.com/medmrgh"
+      }
+    ]
+  },
+  {
+    "cardNumber": "5",
+    "image": "/images/team/profil/fayrouz.webp",
+    "name": "Fayrouz",
+    "title": "CMO",
+    "social": [
+      {
+        "icon": "/images/socials/dark/linkedin.png",
+        "link": "https://www.linkedin.com/in/fayrouz-benstella/"
+      },
+      {
+        "icon": "/images/socials/dark/icons for social media.png",
+        "link": "https://twitter.com/StellaFayrouz"
+      }
+    ]
+  },
+  {
+    "cardNumber": "5",
+    "image": "/images/team/profil/andre.webp",
+    "name": "Andrei",
+    "title": "Community Manager",
+    "social": [
+      {
+        "icon": "/images/socials/dark/linkedin.png",
+        "link": "https://www.linkedin.com/in/andreiilieit/"
+      },
+      {
+        "icon": "/images/socials/dark/icons for social media.png",
+        "link": "https://twitter.com/dilixcryptonoob"
+      }
+    ]
+  },
+  {
+    "cardNumber": "7",
+    "image": "/images/team/profil/ithihas.webp",
+    "name": "Ithihas",
+    "title": "Blockchain Developer"
+  },
+  {
+    "cardNumber": "9",
+    "image": "/images/team/profil/peres.webp",
+    "name": "Peres",
+    "title": "Back-end Developer"
+  },
+  {
+    "cardNumber": "7",
+    "image": "/images/team/profil/martin.webp",
+    "name": "Martin",
+    "title": "Front-end Expert"
+  },
+  {
+    "cardNumber": "a",
+    "image": "/images/team/profil/guy.webp",
+    "name": "Guy",
+    "title": "Legal Advisor"
+  },
+  {
+    "cardNumber": "7",
+    "image": "/images/team/profil/lionel.webp",
+    "name": "Lionel",
+    "title": "Casino Product Specialist",
+    "social": [
+      {
+        "icon": "/images/socials/dark/linkedin.png",
+        "link": "https://www.linkedin.com/in/lionelacker/"
+      }
+    ]
+  },
+  {
+    "cardNumber": "a",
+    "image": "/images/team/profil/oumar.webp",
+    "name": "Oumar",
+    "title": "Blockchain Expert Advisor",
+    "social": [
+      {
+        "icon": "/images/socials/dark/linkedin.png",
+        "link": "https://www.linkedin.com/in/oumar-diallo-a4183a9a/"
+      }
+    ]
+  },
+  {
+    "cardNumber": "9",
+    "image": "/images/team/profil/samuel.webp",
+    "name": "Samuel",
+    "title": "Cloud Architect Advisor",
+    "social": [
+      {
+        "icon": "/images/socials/dark/linkedin.png",
+        "link": "https://www.linkedin.com/in/samuelmansour/"
+      }
+    ]
+  },
+  {
+    "cardNumber": "7",
+    "image": "/images/team/profil/amine.webp",
+    "name": "Amine",
+    "title": "Content Writer",
+    "social": [
+      {
+        "icon": "/images/socials/dark/linkedin.png",
+        "link": "https://www.linkedin.com/in/amineelabbas/"
+      }
+    ]
+  },
+  {
+    "cardNumber": "9",
+    "image": "/images/team/profil/ash.webp",
+    "name": "Ash WSB",
+    "title": "Strategic Advisor",
+    "social": [
+      {
+        "icon": "/images/socials/dark/icons for social media.png",
+        "link": "https://twitter.com/ashwsbreal"
+      }
+    ]
+  },
+  {
+    "cardNumber": "7",
+    "image": "/images/team/profil/kevin.webp",
+    "name": "Kevin",
+    "title": "Strategic Advisor",
+    "social": [
+      {
+        "icon": "/images/socials/dark/linkedin.png",
+        "link": "https://www.linkedin.com/in/kevinabdulrahman/"
+      }
+    ]
+  }
+]

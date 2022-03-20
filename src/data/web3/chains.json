@@ -1,0 +1,37 @@
+[
+  {
+    "code": "BSC",
+    "name": "Binance",
+    "chainId": "0x38",
+    "smartContracts": {
+      "RDTToken": "",
+      "RDTTokenLP": "",
+      "contracts": {
+        "PoolDeployer": {
+          "address": ""
+        },
+        "NftFactory": {
+          "address": ""
+        }
+      }
+    }
+  },
+  {
+    "code": "BSCT",
+    "name": "Binance Testnet",
+    "chainId": "0x61",
+    "test": true,
+    "smartContracts": {
+      "RDTToken": "0xBDB7918eD57C229b5d1a94a215129e57A0f3d9eF",
+      "RDTTokenLP": "0x4739a764cA89Eec11047Fa242EA9347a2E5326Ee",
+      "contracts": {
+        "PoolDeployer": {
+          "address": "0x49f5036511a502443750d210110130D57291DFc9"
+        },
+        "NftFactory": {
+          "address": "0xb2A52A7B2768e39EC811627d3d6d5a0A0AF89DdE"
+        }
+      }
+    }
+  }
+]

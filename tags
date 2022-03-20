@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Attrs	src/main.js	/^  head.htmlAttrs = { lang: "en" };$/;"	c
+Index	tailwind.config.js	/^      zIndex: {$/;"	c
+NOT_FOUND_NAME	src/.temp/constants.js	/^export const NOT_FOUND_NAME = "404"$/;"	v
+NOT_FOUND_PATH	src/.temp/constants.js	/^export const NOT_FOUND_PATH = "\/404"$/;"	v
+Options	gridsome.config.js	/^    loaderOptions: {$/;"	c
+TemplateColumns	tailwind.config.js	/^      gridTemplateColumns: {$/;"	c
+TemplateRows	tailwind.config.js	/^      gridTemplateRows: {$/;"	c
+Vue	src/vue-shims.d.ts	/^  import Vue from "vue";$/;"	I
+Vue	types/vuex.d.ts	/^  interface Vue {$/;"	i
+Vue	types/vuex.d.ts	/^import Vue from "vue";$/;"	I
+Width	tailwind.config.js	/^      minWidth: {$/;"	c
+exports	gridsome.server.js	/^module.exports = function (api) {$/;"	f
